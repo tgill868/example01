@@ -11,7 +11,7 @@ public class Example01 {
 		System.out.println("Please enter your name: ");
 		String name = in.next();
 		
-		System.out.println("Hello, "+name);
+		System.out.println("Hello, "+name+"!");
 	}
 
 }
